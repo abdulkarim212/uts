@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">UTS-AKB-IF4-10116183</string>
+    <string name="title_home">Profil</string>
+    <string name="title_dashboard">Kontak</string>
+    <string name="title_notifications">Daftar Teman</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!--view pager nya-->
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">LANJUT</string>
+    <string name="skip">LEWATI</string>
+    <string name="start">MULAI</string>
+
+    <string name="slide_1_title">TEMAN</string>
+    <string name="slide_1_desc">Panggil teman-temanmu untuk Makan</string>
+
+    <string name="slide_2_title">KONTAK</string>
+    <string name="slide_2_desc">Carilah satu kontak untuk mengobrol</string>
+
+    <string name="slide_3_title">PROFIL</string>
+    <string name="slide_3_desc">Perkenalkan dirimu disini</string>
+
+    <string name="slide_4_title">GUIDE</string>
+    <string name="slide_4_desc">Cari Guide Untuk Menemani Perjalananmu Agar  semakin asyik </string>
+
+    <string-array name="countries_arry">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Antarctica</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Aruba</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+    </string-array>
+
+</resources>
